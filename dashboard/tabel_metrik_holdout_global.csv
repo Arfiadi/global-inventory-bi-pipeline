@@ -1,0 +1,4 @@
+Model Paradigm;MAE;RMSE;MAPE (%)
+SARIMAX (Statistik Klasik);73,0;87,3;42,05
+PROPHET (Aditif/Trend);67,03;79,91;38,76
+XGBoost (Ensemble Tree);72,58;88,55;41,8
