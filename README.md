@@ -4,7 +4,7 @@
 
 🔗 **[Lihat Live Dashboard Power BI di sini](https://app.powerbi.com/view?r=eyJrIjoiYzFkYzE2ZjItMjZmZi00MmFmLTk3ODktMDJjNmY4MDFhNzNiIiwidCI6IjUxZDc5MGQ1LWJlZmItNDg0ZS04NmM2LWQxN2I2NDcyNzYyNCIsImMiOjEwfQ%3D%3D)**
 
-Proyek ini adalah implementasi sistem pendukung keputusan berbasis data (*data-driven decision support system*) untuk memitigasi risiko penumpukan (*overstock*) dan kekosongan stok (*stockout*) pada rantai pasok global. Proyek ini mendemonstrasikan kapabilitas pipeline *Business Intelligence* (BI) *end-to-end*, mulai dari ekstraksi data dari sistem OLTP hingga visualisasi di *dashboard* analitik prediktif.
+Proyek ini adalah implementasi sistem pendukung keputusan berbasis data (*data-driven decision support system*) untuk memitigasi risiko penumpukan (*overstock*) dan kekosongan stok (*stockout*) dalam inventory system pada rantai pasok global. Proyek ini mendemonstrasikan kapabilitas pipeline *Business Intelligence* (BI) *end-to-end*, mulai dari ekstraksi data dari sistem OLTP hingga visualisasi di *dashboard* analitik prediktif.
 
 ## 🌟 Fitur Utama
 - **Synthetic Data Generation**: Menggunakan data transaksional sintetis untuk mensimulasikan lingkungan operasional rantai pasok global secara realistis.
